@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 97435649b763dbd4fba78a65bd6fc5bc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alavaca de ajuste do Carro
+    100002: Alavanca A
+    100004: Alavanca B
+    100006: Alvanca de Ajuste do trilho B
+    100008: Botao Ligar
+    100010: "Bot\xE3o parada de emergencia"
+    100012: Camera
+    100014: Carro
+    100016: Light
+    100018: Motor
+    100020: Sun
+    100022: Torno
+    100024: //RootNode
+    100026: Trilho A
+    100028: Trilho B
+    100030: Trilho C
+    400000: Alavaca de ajuste do Carro
+    400002: Alavanca A
+    400004: Alavanca B
+    400006: Alvanca de Ajuste do trilho B
+    400008: Botao Ligar
+    400010: "Bot\xE3o parada de emergencia"
+    400012: Camera
+    400014: Carro
+    400016: Light
+    400018: Motor
+    400020: Sun
+    400022: Torno
+    400024: //RootNode
+    400026: Trilho A
+    400028: Trilho B
+    400030: Trilho C
+    2000000: Camera
+    2100000: MetalVerde
+    2100002: MetalAmarelo
+    2100004: Metal
+    2100006: MetalPreto
+    2100008: Metal Escuro
+    2100010: Metal Vermelho
+    2300000: Alavaca de ajuste do Carro
+    2300002: Alavanca A
+    2300004: Alavanca B
+    2300006: Alvanca de Ajuste do trilho B
+    2300008: Botao Ligar
+    2300010: "Bot\xE3o parada de emergencia"
+    2300012: Carro
+    2300014: Motor
+    2300016: Torno
+    2300018: Trilho A
+    2300020: Trilho B
+    2300022: Trilho C
+    3300000: Alavaca de ajuste do Carro
+    3300002: Alavanca A
+    3300004: Alavanca B
+    3300006: Alvanca de Ajuste do trilho B
+    3300008: Botao Ligar
+    3300010: "Bot\xE3o parada de emergencia"
+    3300012: Carro
+    3300014: Motor
+    3300016: Torno
+    3300018: Trilho A
+    3300020: Trilho B
+    3300022: Trilho C
+    4300000: Torno
+    4300002: Alavanca A
+    4300004: Alavanca B
+    4300006: Carro
+    4300008: Alavaca de ajuste do Carro
+    4300010: Trilho A
+    4300012: Trilho B
+    4300014: Trilho C
+    4300016: Alvanca de Ajuste do trilho B
+    4300018: "Bot\xE3o parada de emergencia"
+    4300020: Botao Ligar
+    4300022: Motor
+    10800000: Light
+    10800002: Sun
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

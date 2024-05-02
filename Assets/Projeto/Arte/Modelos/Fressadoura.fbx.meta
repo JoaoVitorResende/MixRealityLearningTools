@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: f6dd3371ec695394f913514d2d4bf825
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 'Alavanca '
+    100002: Alavanca de tipo de serragem
+    100004: AlavancaMotor
+    100006: "Bota\xF5 Emergencia"
+    100008: "Bot\xE3o Liga"
+    100010: //RootNode
+    100012: ManivelaD
+    100014: ManivelaE
+    100016: Mesa
+    100018: Motor
+    100020: Rotatoria
+    400000: 'Alavanca '
+    400002: Alavanca de tipo de serragem
+    400004: AlavancaMotor
+    400006: "Bota\xF5 Emergencia"
+    400008: "Bot\xE3o Liga"
+    400010: //RootNode
+    400012: ManivelaD
+    400014: ManivelaE
+    400016: Mesa
+    400018: Motor
+    400020: Rotatoria
+    2100000: AzulMetalico
+    2100002: BrancoMetalico
+    2100004: Metal
+    2100006: PretoMetalico
+    2100008: Amarelo
+    2100010: No Name
+    2100012: Vermelho
+    2300000: 'Alavanca '
+    2300002: Alavanca de tipo de serragem
+    2300004: AlavancaMotor
+    2300006: "Bota\xF5 Emergencia"
+    2300008: "Bot\xE3o Liga"
+    2300010: //RootNode
+    2300012: ManivelaD
+    2300014: ManivelaE
+    2300016: Mesa
+    2300018: Motor
+    2300020: Rotatoria
+    3300000: 'Alavanca '
+    3300002: Alavanca de tipo de serragem
+    3300004: AlavancaMotor
+    3300006: "Bota\xF5 Emergencia"
+    3300008: "Bot\xE3o Liga"
+    3300010: //RootNode
+    3300012: ManivelaD
+    3300014: ManivelaE
+    3300016: Mesa
+    3300018: Motor
+    3300020: Rotatoria
+    4300000: Fressadoura
+    4300002: Mesa
+    4300004: ManivelaE
+    4300006: ManivelaD
+    4300008: Rotatoria
+    4300010: Motor
+    4300012: AlavancaMotor
+    4300014: 'Alavanca '
+    4300016: Alavanca de tipo de serragem
+    4300018: "Bot\xE3o Liga"
+    4300020: "Bota\xF5 Emergencia"
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
